@@ -13,4 +13,5 @@ print('add a new feature')
 
 # a class that is doing anything
 class ABCthatDoingAnything():
+    '''this is a comment'''
     pass
