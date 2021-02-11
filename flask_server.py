@@ -14,9 +14,8 @@ for i in range(10):
 
 print('add a new feature')
 
+
 # a class that is doing anything
-
-
 class ABCthatDoingAnything():
     '''this is a comment'''
     pass
