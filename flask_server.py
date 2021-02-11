@@ -1,5 +1,6 @@
 import flask
 
+# this part of the code will say hello to the user
 # I learn git
-# this is how you say hello in python
 print('hello world')
+
