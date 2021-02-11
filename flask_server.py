@@ -4,6 +4,7 @@ import flask
 print('hello world')
 print('hello again')
 print('hello third time')
+# I place a comment here
 print('hello one more time')
 
 for i in range(10):
@@ -12,6 +13,8 @@ for i in range(10):
 print('add a new feature')
 
 # a class that is doing anything
+
+
 class ABCthatDoingAnything():
     '''this is a comment'''
     pass
